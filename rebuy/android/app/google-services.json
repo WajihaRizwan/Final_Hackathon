@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "286294435048",
+    "project_id": "chatapp-9dbf4",
+    "storage_bucket": "chatapp-9dbf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286294435048:android:fbbdef8b387c1be5bf555d",
+        "android_client_info": {
+          "package_name": "com.chatapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuiShO_9Ht7p9NL6zNST5-daLONWtM8lI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286294435048:android:5f636be78a6a2c20bf555d",
+        "android_client_info": {
+          "package_name": "com.rebuy.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuiShO_9Ht7p9NL6zNST5-daLONWtM8lI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
